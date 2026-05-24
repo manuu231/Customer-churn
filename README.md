@@ -1,6 +1,7 @@
 # Customer Churn Prediction
 
-https://miro.medium.com/v2/resize:fit:1400/format:webp/1*ctP13Q-tsQXW9E8L6hbi4Q.png
+<img width="1368" height="492" alt="image" src="https://github.com/user-attachments/assets/4da6f262-6382-4bf6-a1d5-9e9acdc2b51d" />
+
 
 
 ## Overview
